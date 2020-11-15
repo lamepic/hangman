@@ -32,7 +32,7 @@ npm start
 
 ## Demo
 
-* [Hangman](https://bit.ly/3noprKM)
+* [Hangman](https://bit.ly/32Nq2xB)
 
 ## Built With
 
